@@ -28,7 +28,7 @@ complete the following tasks:
   * [ ] Clone the module repo into your workspace.
   * [ ] Clone your assignment repo into your workspace.
 * [ ] Check you can run the module sample web app.
-  * [] Install local dependancies with `npm install` and `npm install --prefix ./web-app/common`
+  * [ ] Install local dependancies with `npm install` and `npm install --prefix ./web-app/common`
   * [ ] Webserver runs from VSCode.
   * [ ] Website can be accessed from the browser.
   * [ ] Unit tests appear in VSCode sidebar.
