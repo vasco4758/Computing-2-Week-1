@@ -7,7 +7,7 @@
  * @version 2021/22
  */
 import express from "express";
-import Stats4 from "./Stats4.js";
+import Reverse from "./Reverse.js";
 
 const port = 8080;
 const app = express();
@@ -21,7 +21,7 @@ app.use("/docs/", express.static("docs"));
 // JSON-RPC – POST requests.
 
 // This is the module that will be exposed with a JSON_RPC interface:
-const rpc_module = Stats4;
+const rpc_module = Reverse;
 
 app.use("/", express.json());
 app.post("/", function (req, res) {
