@@ -35,3 +35,8 @@ complete the following tasks:
   * [ ] jslint warning appears in `Reverse.test.js`.
   * [ ] JSDoc compiles.
   * [ ] JSDoc output can be viewed in the browser.
+
+### Reading for Next Week
+Once you're done, please read
+https://github.com/fourier-space/Computing-2-Notes/blob/main/javascript.md
+ahead of next week's session.
