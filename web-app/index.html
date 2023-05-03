@@ -20,35 +20,26 @@
 <ul>
     <li>web-app
         <ul>
-            <li>browser
+            <li><strong>assets</strong>
                 <ul>
-                    <li>default.css</li>
-                    <li>index.html</li>
-                    <li>main.js</li>
-                    <li>[Other statically served files]</li>
+                    <li><em>[Any images or other assets the app relies on]</em></li>
                 </ul>
             </li>
-            <li>common</li>
+            <li><strong>tests</strong>
                 <ul>
-                    <li>[Items that should be accessible from the browser and server]</li>
-                </ul>
-            <li>tests
-                <ul>
-                    <li>[Test files for modules]</li>
+                    <li><a href="tests/Reverse.test.js"><em>[Test files for modules]</em></a></li>
                 </ul>
             </li>
-            <li>server
-                <ul>
-                    <li>server.js</li>
-                    <li>[Other server side files – private to the server]</li>
-                </ul>
-            </li>
+            <li><a href="default.css">default.css</a></li>
+            <li><a href="index.html">index.html</a></li>
+            <li><a href="main.js">main.js</a></li>
+            <li><em>[Other statically served files – e.g. Javascript modules]</em></li>
         </ul>
     </li>
-    <li>[Files related to the project, i.e. github files, node modules, vscode, etc]</li>
+    <li><em>[Files related to the project, i.e. github files, node modules, vscode, etc]</em></li>
 </ul>
 
-<h2>Server Interaction – Reverse a string</h2>
+<h2>Module Interaction – Reverse a string</h2>
 <textarea id="input_pane"></textarea>
 <textarea id="output_pane" readonly="readonly"></textarea>
 <button id="send_button" type="button">Send…</button>

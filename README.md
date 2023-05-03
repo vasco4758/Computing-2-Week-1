@@ -22,15 +22,14 @@ complete the following tasks:
 * [ ] GitHub.
   * [ ] Create your own GitHub Account.
   * [ ] Accept the GitHub Classroom coursework assignment.
-  * [ ] Find the  fourier-space / .Computing-2-Applications repo
 * [ ] Set Up VSCode.
   * [ ] Create a new folder for Computing 2.
-  * [ ] Clone the module repo into your workspace.
+  * [ ] Clone this week's repo (this one) into your workspace.
   * [ ] Clone your assignment repo into your workspace.
 * [ ] Check you can run the module sample web app.
-  * [ ] Install local dependancies with `npm install` and `npm install --prefix ./web-app/common`
-  * [ ] Webserver runs from VSCode.
-  * [ ] Website can be accessed from the browser.
+  * [ ] Install local dependancies with `npm install`
+  * [ ] Web app can be run in the browser.
+  * [ ] Web app reverses text (Javascript modules load correctly)
   * [ ] Unit tests appear in VSCode sidebar.
   * [ ] jslint warning appears in `Reverse.test.js`.
   * [ ] JSDoc compiles.
@@ -38,5 +37,5 @@ complete the following tasks:
 
 ### Reading for Next Week
 Once you're done, please read
-https://github.com/fourier-space/Computing-2-Notes/blob/main/javascript.md
+https://fourier-space.github.io/Computing-2-Notes/javascript/
 ahead of next week's session.

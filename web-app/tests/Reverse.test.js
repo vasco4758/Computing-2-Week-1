@@ -1,4 +1,4 @@
-import Reverse from "../server/Reverse.js";
+import Reverse from "../Reverse.js";
 
 // This test intentionally has a bug in it that you should fix.
 // There is also a jslint error which should give a clue.
