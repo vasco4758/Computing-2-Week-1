@@ -27,7 +27,7 @@ complete the following tasks:
   * [ ] Clone this week's repo (this one) into your workspace.
   * [ ] Clone your assignment repo into your workspace.
 * [ ] Check you can run the module sample web app.
-  * [ ] Install local dependancies with `npm install`
+  * [ ] Install local dependencies with `npm install`
   * [ ] Web app can be run in the browser.
   * [ ] Web app reverses text (Javascript modules load correctly)
   * [ ] Unit tests appear in VSCode sidebar.
